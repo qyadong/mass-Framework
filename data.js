@@ -58,7 +58,7 @@ define("data", ["lang"], function($) {
      * @param {Any} owner
      * @param {Any} name ? 要移除的数据
      * @param {Boolean} pvt ? 标识为内部数据
-     * @return {Any}
+     * @return {Any} 
      * @api private
      */
 
